@@ -1,7 +1,7 @@
 # test
 this is a test
 
-## Lo impoddrtante
+## Lo importante
 * Hola
 * Es
 ### Lo menos importante
